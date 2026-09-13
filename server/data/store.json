@@ -1,0 +1,680 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Villa Aurès — Contemporary Residence",
+      "slug": "villa-aures-contemporary-residence",
+      "category": "Villa",
+      "location": "Batna, Aurès Region",
+      "year": "2024",
+      "scope": "Complete Architectural Renovation, Bespoke Joinery & Interior Styling",
+      "description": "A total spatial metamorphosis of a 420m² multi-level residence into an understated sanctuary of light, Roman travertine, and smoked European oak.",
+      "vision": "The client requested a complete departure from heavy, compartmentalized 1990s construction toward a fluid, serene residence inspired by Mediterranean minimalism. The vision required flooding the living core with diffused sunlight while establishing dedicated gallery niches for private art collections.",
+      "transformation": "We stripped the interior down to its structural concrete skeleton, removing six interior load-partition walls and replacing them with hidden structural steel beams. The former maze of dark corridors was transformed into a continuous 14-meter visual axis spanning the grand foyer, sunken lounge, and dining pavilion. A custom floating travertine fireplace divides living zones without interrupting sightlines.",
+      "featured": true,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=85",
+      "before_image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-3-optimized-1789143905409.webp",
+      "after_image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143919938.webp",
+      "materials": [
+        "Navona Vein-Cut Travertine",
+        "Smoked Belgian White Oak",
+        "Brushed Champagne Anodized Brass",
+        "Artisanal Lime Slaked Plaster",
+        "Low-Iron Fluted Acoustic Glass"
+      ],
+      "services": [
+        "Interior Renovation",
+        "Custom Design",
+        "Flooring & Wall Finishes",
+        "Lighting & Details"
+      ],
+      "gallery": [
+        {
+          "id": "img-1-1",
+          "project_id": "proj-1",
+          "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Villa Aurès grand living pavilion with floating travertine wall",
+          "sort_order": 1,
+          "file_size": "92 KB",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "img-1-2",
+          "project_id": "proj-1",
+          "image_url": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Minimalist kitchen island with solid stone waterfall edge",
+          "sort_order": 2,
+          "file_size": "88 KB",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "id": "img-1-3",
+          "project_id": "proj-1",
+          "image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Master suite gallery opening onto private landscaped terrace",
+          "sort_order": 3,
+          "file_size": "95 KB",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "id": "img-1-4",
+          "project_id": "proj-1",
+          "image_url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Sunken conversation pit with bespoke bouclé seating",
+          "sort_order": 4,
+          "file_size": "89 KB",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "created_at": "2024-01-15T10:00:00Z",
+      "updated_at": "2026-09-11T16:25:31.506Z"
+    },
+    {
+      "id": "proj-2",
+      "title": "Penthouse Hydra — Monolithic Luxury",
+      "slug": "penthouse-hydra-monolithic-luxury",
+      "category": "Apartment",
+      "location": "Hydra, Algiers",
+      "year": "2024",
+      "scope": "Full Penthouse Renovation, Custom Kitchen & Automated Architectural Lighting",
+      "description": "A 260m² top-floor duplex penthouse overlooking the Mediterranean bay, rendered in warm greige plaster, bronze metalwork, and sculptural monolithic stone.",
+      "vision": "To design an executive pied-à-terre that balances intimate evening warmth with striking architectural drama. The client desired seamless concealed storage where every technical installation disappears into the architecture.",
+      "transformation": "Rebuilt the entire upper floor into a glass-enclosed master suite with a cantilevered dressing room and open bath. The kitchen features a 4.2-meter island carved from Greek Volakas marble with touch-to-open walnut cabinetry that conceals the back-pantry and coffee bar behind motorized pocket panels.",
+      "featured": true,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2000&q=85",
+      "before_image_url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=80",
+      "after_image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
+      "materials": [
+        "Volakas Greek White Marble",
+        "Warm Greige Micro-topping",
+        "Hand-Patinated Bronze Accents",
+        "Rift-Sawn French Walnut",
+        "Acoustic Suede Wall Panels"
+      ],
+      "services": [
+        "Interior Renovation",
+        "Kitchen Renovation",
+        "Interior Decoration",
+        "Custom Design"
+      ],
+      "gallery": [
+        {
+          "id": "img-2-1",
+          "project_id": "proj-2",
+          "image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Hydra penthouse living volume with bespoke lounge elements",
+          "sort_order": 1,
+          "file_size": "94 KB",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "img-2-2",
+          "project_id": "proj-2",
+          "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Monolithic Volakas marble kitchen island with concealed appliances",
+          "sort_order": 2,
+          "file_size": "86 KB",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "id": "img-2-3",
+          "project_id": "proj-2",
+          "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Master bath en-suite with freestanding stone bathtub and sunset light",
+          "sort_order": 3,
+          "file_size": "91 KB",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "created_at": "2024-03-01T09:00:00Z",
+      "updated_at": "2024-04-12T16:20:00Z"
+    },
+    {
+      "id": "proj-3",
+      "title": "The Stone Gallery Kitchen — Culinary Transformation",
+      "slug": "stone-gallery-kitchen-culinary-transformation",
+      "category": "Kitchen",
+      "location": "El Biar, Algiers",
+      "year": "2023",
+      "scope": "Complete Kitchen Demolition, Custom Millwork & Architectural Lighting",
+      "description": "A masterclass in culinary elegance featuring book-matched Calacatta Viola marble, integrated concealed extraction, and tactile dark fumed oak cabinetry.",
+      "vision": "Convert an outdated, closed-off utility kitchen into an open theatrical show kitchen capable of hosting intimate 10-person chef dinners while preserving immaculate minimalism during everyday family life.",
+      "transformation": "Demolished the structural dividing masonry to fuse the culinary space with the breakfast atrium. Engineered a 3.8-meter seamless cantilevered island counter with integrated induction flush-mount cooktops. All utility fridges, wine cellars, and cleaning appliances are hidden behind flush walnut pocket portals.",
+      "featured": true,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=2000&q=85",
+      "before_image_url": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=1600&q=80",
+      "after_image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+      "materials": [
+        "Calacatta Viola Bookmatched Marble",
+        "Smoked Fumed European Oak",
+        "Matte Black PVD Hardware",
+        "Concealed Invisible Downdraft Extraction",
+        "Fluted Smoked Glass Cabinets"
+      ],
+      "services": [
+        "Kitchen Renovation",
+        "Custom Design",
+        "Lighting & Details"
+      ],
+      "gallery": [
+        {
+          "id": "img-3-1",
+          "project_id": "proj-3",
+          "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Calacatta Viola marble island and dark oak cabinetry",
+          "sort_order": 1,
+          "file_size": "85 KB",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "img-3-2",
+          "project_id": "proj-3",
+          "image_url": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Precision drawers with solid timber dove-tail organizers",
+          "sort_order": 2,
+          "file_size": "90 KB",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "created_at": "2023-08-10T11:00:00Z",
+      "updated_at": "2023-09-25T17:00:00Z"
+    },
+    {
+      "id": "proj-4",
+      "title": "Sanctuary Master Bath — Thermal Wellness",
+      "slug": "sanctuary-master-bath-thermal-wellness",
+      "category": "Bathroom",
+      "location": "Batna",
+      "year": "2023",
+      "scope": "Complete Bathroom Overhaul, Waterproofing, Stone Slab Works & Lighting",
+      "description": "An organic private spa suite conceived in seamless micro-cement, honed silver travertine, ambient coves, and heated volcanic stone benches.",
+      "vision": "Transform a cramped 14m² cold-tiled bathroom into a restorative 28m² wellness suite reminiscent of a high-end Swiss alpine thermal bath.",
+      "transformation": "Merged an adjacent redundant storage room into the bath footprint. Created a monolithic zero-entry double rain shower with hidden trench drains, a custom soaking tub placed before a private bamboo garden lightwell, and floating fluted oak double basins with brushed champagne fixtures.",
+      "featured": true,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=2000&q=85",
+      "before_image_url": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1600&q=80",
+      "after_image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
+      "materials": [
+        "Honed Silver Travertine",
+        "Artisanal Warm Greige Micro-cement",
+        "Brushed Champagne PVD Brassware",
+        "Smoked Fluted Glass Screens",
+        "Solid Fluted American Oak"
+      ],
+      "services": [
+        "Bathroom Renovation",
+        "Flooring & Wall Finishes",
+        "Lighting & Details"
+      ],
+      "gallery": [
+        {
+          "id": "img-4-1",
+          "project_id": "proj-4",
+          "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Freestanding stone bathtub with floor-mounted brushed champagne spout",
+          "sort_order": 1,
+          "file_size": "89 KB",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "created_at": "2023-11-04T08:30:00Z",
+      "updated_at": "2023-12-14T11:15:00Z"
+    },
+    {
+      "id": "proj-5",
+      "title": "Atelier Privé — Corporate Executive Studio",
+      "slug": "atelier-prive-corporate-executive-studio",
+      "category": "Commercial",
+      "location": "Sidi Yahia, Algiers",
+      "year": "2024",
+      "scope": "Commercial Architecture, Acoustic Wall Paneling & Executive Furnishings",
+      "description": "A refined 180m² corporate headquarters and private boardroom designed with acoustic fabric paneling, dark bronze dividers, and museum lighting.",
+      "vision": "Provide an international investment advisory firm with a high-prestige executive office that conveys authority, quiet luxury, and confidential acoustic isolation.",
+      "transformation": "Engineered double-glazed frameless acoustic partition suites with custom internal bronze mesh. Installed curved fluted oak ceiling baffles that conceal high-velocity low-noise HVAC ducts while directing ambient dimmable 2700K illumination.",
+      "featured": false,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=2000&q=85",
+      "materials": [
+        "Acoustic Kvadrat Wool Paneling",
+        "Dark Patinated Architectural Bronze",
+        "Nero Marquina Black Marble",
+        "Smoked Quartered Oak Veneers"
+      ],
+      "services": [
+        "Interior Renovation",
+        "Space Transformation",
+        "Custom Design"
+      ],
+      "gallery": [
+        {
+          "id": "img-5-1",
+          "project_id": "proj-5",
+          "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Executive boardroom table in solid smoked oak with hidden AV connectivity",
+          "sort_order": 1,
+          "file_size": "91 KB",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "created_at": "2024-02-18T13:00:00Z",
+      "updated_at": "2024-03-20T10:00:00Z"
+    },
+    {
+      "id": "proj-6",
+      "title": "Haussmannian Heritage Revival — Historic Apartment",
+      "slug": "haussmannian-heritage-revival-historic-apartment",
+      "category": "Residential",
+      "location": "Didouche Mourad, Algiers Center",
+      "year": "2023",
+      "scope": "Historic Preservation, Floor Restoration, Structural Reinforcement & Decoration",
+      "description": "Restoration of a grand 1920s 310m² historic apartment with 3.8m ceilings, preserving ornate plaster moldings while infusing contemporary Italian furniture.",
+      "vision": "Bridge century-old architectural grandeur with modern living requirements. The historical plaster mouldings and herringbone parquet needed meticulous artisanal restoration.",
+      "transformation": "Painstakingly hand-restored original gypsum cornices and ceiling rosettes. Repaired and refinished 100-year-old French oak herringbone floors with organic matte Danish oil. Reconfigured rear service quarters into an open light-filled chef pantry and private master suite.",
+      "featured": false,
+      "status": "Published",
+      "cover_image_url": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=2000&q=85",
+      "materials": [
+        "Restored Century-Old French Oak Parquet",
+        "Artisanal Gypsum Stucco & Cornices",
+        "Bianco Carrara Marble Mantels",
+        "Linen Sheer Drapery",
+        "Brushed Brass Minimalist Profiles"
+      ],
+      "services": [
+        "Interior Renovation",
+        "Interior Decoration",
+        "Flooring & Wall Finishes"
+      ],
+      "gallery": [
+        {
+          "id": "img-6-1",
+          "project_id": "proj-6",
+          "image_url": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1800&q=80",
+          "alt_text": "Restored grand salon with historic high ceilings and curated designer seating",
+          "sort_order": 1,
+          "file_size": "96 KB",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "created_at": "2023-05-12T14:00:00Z",
+      "updated_at": "2023-07-01T18:00:00Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Interior Renovation",
+      "slug": "interior-renovation",
+      "description": "Complete transformation of residential and commercial interiors, from structural reconfiguration and civil works to bespoke final finishes.",
+      "image_url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Structural alterations & partition restructuring",
+        "High-performance acoustic & thermal insulation",
+        "Concealed MEP (mechanical, electrical, plumbing) integration",
+        "Turnkey project management with milestone inspections"
+      ],
+      "sort_order": 1,
+      "active": true
+    },
+    {
+      "id": "srv-2",
+      "title": "Interior Decoration",
+      "slug": "interior-decoration",
+      "description": "Carefully selected materials, curated color palettes, tactile textures, designer furniture, accent lighting, and signature sculptural elements.",
+      "image_url": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Bespoke moodboard & chromatic palette formulation",
+        "Designer furniture sourcing & custom upholstery",
+        "Textile curation (natural linen, boucle, velvet, raw silk)",
+        "Art advisory & styling for private residences"
+      ],
+      "sort_order": 2,
+      "active": true
+    },
+    {
+      "id": "srv-3",
+      "title": "Space Transformation",
+      "slug": "space-transformation",
+      "description": "Reimagining existing obsolete layouts to dramatically maximize spatial flow, natural illumination, lifestyle ergonomics, and visual poise.",
+      "image_url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Comprehensive volumetric & circulation analysis",
+        "Open-concept living conversions with seamless zoning",
+        "Architectural light wells and pocket glass partitions",
+        "Functional transition corridors turned into galleried spaces"
+      ],
+      "sort_order": 3,
+      "active": true
+    },
+    {
+      "id": "srv-4",
+      "title": "Custom Design",
+      "slug": "custom-design",
+      "description": "Tailored architectural millwork, bespoke dressing suites, integrated cabinetry, and statement furniture crafted exclusively for your space.",
+      "image_url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Millimeter-exact bespoke joinery in smoked oak and walnut",
+        "Integrated hidden storage & flush minimalist portals",
+        "CNC-routed sculptural panels and custom fluting",
+        "Architectural hardware in patinated bronze & champagne metal"
+      ],
+      "sort_order": 4,
+      "active": true
+    },
+    {
+      "id": "srv-5",
+      "title": "Kitchen Renovation",
+      "slug": "kitchen-renovation",
+      "description": "Modern, functional culinary transformations pairing monolithic stone islands, concealed handleless cabinetry, and chef-grade ergonomics.",
+      "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Monolithic kitchen islands in Calacatta marble & quartz",
+        "Integrated concealed appliance suites (Miele, Gaggenau)",
+        "Soft-close motorized mechanisms & pocket breakfast bars",
+        "Under-cabinet precision LED linear temperature lighting"
+      ],
+      "sort_order": 5,
+      "active": true
+    },
+    {
+      "id": "srv-6",
+      "title": "Bathroom Renovation",
+      "slug": "bathroom-renovation",
+      "description": "Contemporary bathroom and master suite sanctuaries combining organic stone, frameless rain showers, freestanding soaker tubs, and ambient warmth.",
+      "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Book-matched porcelain slabs & vein-cut travertine",
+        "Zero-threshold flush linear walk-in rain showers",
+        "Floating fluted vanities with undermount basin details",
+        "Concealed thermo-static valves in brushed bronze"
+      ],
+      "sort_order": 6,
+      "active": true
+    },
+    {
+      "id": "srv-7",
+      "title": "Flooring & Wall Finishes",
+      "slug": "flooring-wall-finishes",
+      "description": "Architectural flooring, Venetian lime plasters, artisanal micro-cements, natural herringbone parquets, and acoustic fluted wood paneling.",
+      "image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Seamless micro-cement floors with silk satin finish",
+        "French oak chevron and herringbone engineered wood",
+        "Marmorino and grassello artisanal Venetian plaster walls",
+        "Acoustic felt-backed vertical slatted wall claddings"
+      ],
+      "sort_order": 7,
+      "active": true
+    },
+    {
+      "id": "srv-8",
+      "title": "Lighting & Details",
+      "slug": "lighting-details",
+      "description": "Architectural cove lighting, museum-grade magnetic tracks, and statement sculptural chandeliers designed to sculpt mood, shadow, and geometry.",
+      "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1600&q=80",
+      "features": [
+        "Low-glare deep recessed architectural downlights (CRI 98+)",
+        "Magnetic 48V low-voltage track systems with adjustable spots",
+        "Perimeter indirect ceiling light coves with 2700K warm glow",
+        "Smart home scenes programming for morning, evening & dinner"
+      ],
+      "sort_order": 8,
+      "active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "client_name": "M. & Mme. Benali",
+      "project_name": "Villa Aurès — Batna",
+      "content": "Working with BESSAM DECORATEUR redefined our expectations of what a renovation in Algeria could achieve. Their discipline with materials, punctuality on milestone delivery, and respect for millimeter precision gave our villa an architectural calm we cherish every day.",
+      "rating": 5,
+      "active": true,
+      "created_at": "2024-02-15T00:00:00Z"
+    },
+    {
+      "id": "test-2",
+      "client_name": "Dr. Karim D.",
+      "project_name": "Duplex Penthouse — Hydra, Algiers",
+      "content": "From the very first 3D concept through to the handover of our bespoke kitchen and stone works, BESSAM.DECO conducted the renovation like an orchestra. The level of craftsmanship and clean finish in the joinery is second to none.",
+      "rating": 5,
+      "active": true,
+      "created_at": "2024-04-20T00:00:00Z"
+    },
+    {
+      "id": "test-3",
+      "client_name": "Cabinet d’Investissement Privé",
+      "project_name": "Atelier Privé — Sidi Yahia",
+      "content": "The acoustic isolation, material richness, and architectural lighting implemented by BESSAM.DECO immediately elevated our corporate identity. Highly recommended for demanding clients who value discretion and uncompromising quality.",
+      "rating": 5,
+      "active": true,
+      "created_at": "2024-03-25T00:00:00Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "Yacine Mansouri",
+      "phone": "+213 550 12 34 56",
+      "email": "yacine.mansouri@outlook.com",
+      "project_type": "Villa Full Renovation",
+      "location": "Batna",
+      "space_size": "350 m²",
+      "budget": "DZD 15,000,000+",
+      "message": "We recently acquired a multi-level villa and want a total architectural redesign with bespoke travertine works, minimalist kitchen, and smart lighting.",
+      "status": "New",
+      "created_at": "2026-09-09T08:16:13.945Z"
+    },
+    {
+      "id": "inq-2",
+      "name": "Amel Khelil",
+      "phone": "+213 661 78 90 12",
+      "email": "amel.khelil@gmail.com",
+      "project_type": "Kitchen & Living Space",
+      "location": "Hydra, Algiers",
+      "space_size": "180 m²",
+      "budget": "DZD 8,000,000 - 12,000,000",
+      "message": "Looking to remodel our penthouse kitchen and salon with monolithic marble finishes and concealed cabinetry.",
+      "status": "Contacted",
+      "created_at": "2026-09-08T08:16:13.945Z"
+    }
+  ],
+  "consultations": [
+    {
+      "id": "cons-1",
+      "client_name": "Karim Bouzid",
+      "email": "karim.bouzid@enterprise.dz",
+      "phone": "+213 555 98 76 54",
+      "consultation_type": "On-Site Architectural Survey",
+      "date": "2026-09-18",
+      "time_slot": "14:00 - 15:30",
+      "project_scope": "Complete Villa Interior Renovation & Joinery",
+      "notes": "Wants initial spatial measurement and discussion of materials.",
+      "status": "Confirmed",
+      "created_at": "2026-09-10T08:16:13.945Z"
+    }
+  ],
+  "siteSettings": {
+    "id": "settings-default",
+    "company_name": "BESSAM DECORATEUR",
+    "brand_name": "BESSAM.DECO",
+    "tagline": "Transform Your Space Into Something Extraordinary.",
+    "description": "Premium renovation services that bring your vision to life with expert craftsmanship, refined design, and attention to detail.",
+    "phone": "0770 88 66 09",
+    "email": "n.maison.n.vie@gmail.com",
+    "address": "Studio d’Architecture & Décoration, Batna / Alger [ADDRESS]",
+    "instagram_url": "https://instagram.com/bessam.deco",
+    "facebook_url": "https://facebook.com/bessam.deco",
+    "whatsapp_url": "+213 770 88 66 09",
+    "logo_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-optimized-1789144651494.webp",
+    "updated_at": "2026-09-11T16:37:34.472Z"
+  },
+  "media": [
+    {
+      "id": "med-1789144651859",
+      "filename": "images-optimized-1789144651494.webp",
+      "original_name": "images.jpeg",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-optimized-1789144651494.webp",
+      "file_size": 4134,
+      "file_size_formatted": "4 KB",
+      "original_size": 6165,
+      "optimized_size": 4134,
+      "width": 300,
+      "height": 300,
+      "format": "webp",
+      "project_association": "CMS Setting: logo_url",
+      "created_at": "2026-09-11T16:37:31.859+00:00"
+    },
+    {
+      "id": "med-1789143952732",
+      "filename": "chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143951237.webp",
+      "original_name": "ChatGPT Image Sep 11, 2026, 05_13_05 PM.png",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143951237.webp",
+      "file_size": 103850,
+      "file_size_formatted": "101.4 KB",
+      "original_size": 2423345,
+      "optimized_size": 103850,
+      "width": 1086,
+      "height": 1448,
+      "format": "webp",
+      "project_association": "Villa Aurès — Contemporary Residence",
+      "created_at": "2026-09-11T16:25:52.732+00:00"
+    },
+    {
+      "id": "med-1789143941385",
+      "filename": "chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143939641.webp",
+      "original_name": "ChatGPT Image Sep 11, 2026, 05_13_05 PM.png",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143939641.webp",
+      "file_size": 103850,
+      "file_size_formatted": "101.4 KB",
+      "original_size": 2423345,
+      "optimized_size": 103850,
+      "width": 1086,
+      "height": 1448,
+      "format": "webp",
+      "project_association": "Villa Aurès — Contemporary Residence",
+      "created_at": "2026-09-11T16:25:41.385+00:00"
+    },
+    {
+      "id": "med-1789143921588",
+      "filename": "chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143919938.webp",
+      "original_name": "ChatGPT Image Sep 11, 2026, 05_13_05 PM.png",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/chatgpt-image-sep-11-2026-05_13_05-pm-optimized-1789143919938.webp",
+      "file_size": 103850,
+      "file_size_formatted": "101.4 KB",
+      "original_size": 2423345,
+      "optimized_size": 103850,
+      "width": 1086,
+      "height": 1448,
+      "format": "webp",
+      "project_association": "Villa Aurès — Contemporary Residence",
+      "created_at": "2026-09-11T16:25:21.588+00:00"
+    },
+    {
+      "id": "med-1789143905864",
+      "filename": "images-3-optimized-1789143905409.webp",
+      "original_name": "images (3).jpeg",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-3-optimized-1789143905409.webp",
+      "file_size": 17984,
+      "file_size_formatted": "17.6 KB",
+      "original_size": 25250,
+      "optimized_size": 17984,
+      "width": 415,
+      "height": 739,
+      "format": "webp",
+      "project_association": "Villa Aurès — Contemporary Residence",
+      "created_at": "2026-09-11T16:25:05.864+00:00"
+    },
+    {
+      "id": "med-1789140164066",
+      "filename": "images-5-optimized-1789140163686.webp",
+      "original_name": "images (5).jpeg",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-5-optimized-1789140163686.webp",
+      "file_size": 13532,
+      "file_size_formatted": "13.2 KB",
+      "original_size": 18756,
+      "optimized_size": 13532,
+      "width": 335,
+      "height": 597,
+      "format": "webp",
+      "project_association": "villa",
+      "created_at": "2026-09-11T15:22:44.066+00:00"
+    },
+    {
+      "id": "med-1789140044682",
+      "filename": "images-5-optimized-1789140044340.webp",
+      "original_name": "images (5).jpeg",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-5-optimized-1789140044340.webp",
+      "file_size": 13532,
+      "file_size_formatted": "13.2 KB",
+      "original_size": 18756,
+      "optimized_size": 13532,
+      "width": 335,
+      "height": 597,
+      "format": "webp",
+      "project_association": "villa",
+      "created_at": "2026-09-11T15:20:44.682+00:00"
+    },
+    {
+      "id": "med-1789140036087",
+      "filename": "images-5-optimized-1789140035614.webp",
+      "original_name": "images (5).jpeg",
+      "image_url": "https://pub-7a12c465a9dd4f6580e648b06d41cb03.r2.dev/images-5-optimized-1789140035614.webp",
+      "file_size": 13532,
+      "file_size_formatted": "13.2 KB",
+      "original_size": 18756,
+      "optimized_size": 13532,
+      "width": 335,
+      "height": 597,
+      "format": "webp",
+      "project_association": "villa",
+      "created_at": "2026-09-11T15:20:36.087+00:00"
+    },
+    {
+      "id": "med-3",
+      "filename": "sanctuary-bath-soaker-optimized.webp",
+      "original_name": "sanctuary-bath-soaker.jpg",
+      "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=2000&q=85",
+      "file_size": 91136,
+      "file_size_formatted": "89 KB",
+      "original_size": 2190000,
+      "optimized_size": 91136,
+      "width": 1920,
+      "height": 1080,
+      "format": "webp",
+      "project_association": "Sanctuary Master Bath",
+      "created_at": "2023-11-04T08:30:00+00:00"
+    },
+    {
+      "id": "med-2",
+      "filename": "kitchen-island-calacatta-optimized.webp",
+      "original_name": "kitchen-island-calacatta.png",
+      "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=2000&q=85",
+      "file_size": 87040,
+      "file_size_formatted": "85 KB",
+      "original_size": 3410000,
+      "optimized_size": 87040,
+      "width": 1920,
+      "height": 1280,
+      "format": "webp",
+      "project_association": "The Stone Gallery Kitchen",
+      "created_at": "2023-08-10T11:00:00+00:00"
+    }
+  ]
+}
