@@ -5,9 +5,9 @@ import path from 'path';
 let s3Client: S3Client | null = null;
 
 function getR2Client(): S3Client | null {
-  const accountId = process.env.R2_ACCOUNT_ID;
-  const accessKeyId = process.env.R2_ACCESS_KEY_ID;
-  const secretAccessKey = process.env.R2_SECRET_ACCESS_KEY;
+  const accountId = process.env.R2_ACCOUNT_ID || process.env.CLOUDFLARE_ACCOUNT_ID;
+  const accessKeyId = process.env.R2_ACCESS_KEY_ID || process.env.CLOUDFLARE_R2_ACCESS_KEY_ID;
+  const secretAccessKey = process.env.R2_SECRET_ACCESS_KEY || process.env.CLOUDFLARE_R2_SECRET_ACCESS_KEY;
 
   if (accountId && accessKeyId && secretAccessKey) {
     if (!s3Client) {
@@ -31,8 +31,9 @@ export async function uploadImageToStorage(
   contentType = 'image/webp'
 ): Promise<{ url: string; storageProvider: 'cloudflare_r2' | 'local_cdn' | 'inline_data' }> {
   const client = getR2Client();
-  const bucketName = process.env.R2_BUCKET_NAME;
-  const publicUrl = process.env.R2_PUBLIC_URL;
+  const bucketName = process.env.R2_BUCKET_NAME || process.env.CLOUDFLARE_R2_BUCKET_NAME;
+  const publicUrl = process.env.R2_PUBLIC_URL || process.env.CLOUDFLARE_R2_PUBLIC_CUSTOM_DOMAIN;
+  const accountId = process.env.R2_ACCOUNT_ID || process.env.CLOUDFLARE_ACCOUNT_ID;
 
   if (client && bucketName) {
     try {
@@ -47,7 +48,7 @@ export async function uploadImageToStorage(
 
       const cdnUrl = publicUrl
         ? `${publicUrl.replace(/\/$/, '')}/${filename}`
-        : `https://${bucketName}.${process.env.R2_ACCOUNT_ID}.r2.dev/${filename}`;
+        : `https://${bucketName}.${accountId}.r2.dev/${filename}`;
 
       return {
         url: cdnUrl,
@@ -106,8 +107,8 @@ export function isManagedStorageUrl(urlOrFilename: string): boolean {
   if (!urlOrFilename) return false;
   const str = urlOrFilename.toLowerCase();
   // Check if it belongs to Cloudflare R2, custom public URL, or local uploads
-  const publicUrl = (process.env.R2_PUBLIC_URL || '').toLowerCase();
-  const bucketName = (process.env.R2_BUCKET_NAME || '').toLowerCase();
+  const publicUrl = (process.env.R2_PUBLIC_URL || process.env.CLOUDFLARE_R2_PUBLIC_CUSTOM_DOMAIN || '').toLowerCase();
+  const bucketName = (process.env.R2_BUCKET_NAME || process.env.CLOUDFLARE_R2_BUCKET_NAME || '').toLowerCase();
 
   if (str.startsWith('/uploads/')) return true;
   if (str.includes('.r2.dev')) return true;
@@ -136,7 +137,7 @@ export async function deleteImageFromStorage(urlOrFilename: string): Promise<boo
 
   let deletedAny = false;
   const client = getR2Client();
-  const bucketName = process.env.R2_BUCKET_NAME;
+  const bucketName = process.env.R2_BUCKET_NAME || process.env.CLOUDFLARE_R2_BUCKET_NAME;
 
   // 1. Delete from Cloudflare R2 bucket if client is available
   if (client && bucketName) {
